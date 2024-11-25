@@ -28,3 +28,9 @@ body {
     margin-left: 250px;
     padding: 20px;
 }
+.rot-90 {
+    transform: rotate(90deg);
+}
+.rot-180 {
+    transform: rotate(180deg);
+}
